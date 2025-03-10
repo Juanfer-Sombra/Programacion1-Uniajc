@@ -4,9 +4,9 @@ public class dulce {
 
 public static void main (String  [] args ) {
    // DEFINIR COSTOS
-   final double Costo_Materia_Prima = 2,50;
-   final double Costo_Empaque = 0,50;
-   final double Ganancias = 0,30;
+   final double Costo_Materia_Prima = 2.50;
+   final double Costo_Empaque = 0.50;
+   final double Ganancias = 0.30;
    final int Barras_por_Caja = 10;
 
   // Entrada Usuario 
