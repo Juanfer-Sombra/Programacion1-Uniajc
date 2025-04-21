@@ -31,7 +31,8 @@ public class Ejercicio4puntp10 {
             System.out.println("La calificación en letra es: " + grado);
         }
 
-        // Cerrar el scanner para evitar posibles fugas de recursos
+        // Cerrar el scanner 
+
         scanner.close();
     }
 }
